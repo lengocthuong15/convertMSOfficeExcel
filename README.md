@@ -13,7 +13,7 @@ Please ref this link for the filetypes: https://msdn.microsoft.com/en-us/vba/exc
 
 Ex: 
 Your XLSX files is in c:/temp/xlsx
-You want convert XLSX files into c:/temp/xls
+You want convert XLSX files into XLS at: c:/temp/xls
 
 cscript msOfficeConvert_excel.vbs  c:/temp/xlsx c:/temp/xls
 
